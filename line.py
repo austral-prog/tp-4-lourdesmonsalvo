@@ -23,8 +23,6 @@ def line():
     print (f"\tP1 ({CoX1}, {Y1})")
     print (f"\tP2 ({CoX2}, {Y2})")
 
-    print ()
-
     print (f"La distancia entre ellos es: {Distancia}")
 
 line()
